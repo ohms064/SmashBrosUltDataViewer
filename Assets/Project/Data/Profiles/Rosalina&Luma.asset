@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62f4d9625643b694abaf45cf9012b56f, type: 3}
+  m_Name: Rosalina&Luma
+  m_EditorClassIdentifier: 
+  _portrait: {fileID: 0}
+  _character:
+    Name: Rosalina&Luma
+    JumpSquad: 3
+    SoftLanding: 2
+    HardLanding: 4
+    InitialDash: 15
+    SingleDash: 23
+    Weight: 82
+    WalkSpeed: 1.138
+    RunSpeed: 1.795
+    AirSpeed: 1.05
+    FallSpeed: 1.2
+    FastFallSpeed: 1.92
+    ShortHopTime: 50
+    FullHopTime: 71
+    ShortHopFastFallTime: 36
+    FullHopFastFallTime: 49

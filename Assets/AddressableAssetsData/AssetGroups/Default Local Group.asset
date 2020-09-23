@@ -1,0 +1,529 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 815cac2c410c5c94086bd83c15395390
+  m_SerializeEntries:
+  - m_GUID: 0213da2a3ebd88f428a6855329041bf7
+    m_Address: data/Ryu.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 05d73b54580aa0a49b4d8f068e524757
+    m_Address: data/Cloud.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0a9abde7178ce2c4bbb3c2eb662903d5
+    m_Address: data/Mewtwo.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0c11d91b9bcdb9e43b8fa29d00ba0597
+    m_Address: data/YoungLink.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0d51e1298d1b1cc4ab41ccae320d62fc
+    m_Address: data/CaptainFalcon.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0fcd5fc45d83f3b4c8f68cba03387325
+    m_Address: data/Lucario.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 13d9e71b8e4b7904e91df6ecd8ed66c4
+    m_Address: data/Olimar.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 153126d9ce0863349a1f18095e0e5d6e
+    m_Address: data/Ivysaur.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1719d56ff9d5b0047821759b9c59713c
+    m_Address: data/Yoshi.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 203828ed0cf0da344ad3ee11863bc4cf
+    m_Address: data/Isabelle.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 288e8a88cddfd2947a4ba8057b956fa1
+    m_Address: data/Inkling.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2b103306fb105e24d8daf0fffff0ecf6
+    m_Address: data/DiddyKong.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 349cd4a88f99eb74098f88705c47529f
+    m_Address: data/Jigglypuff.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 36ad37f3bd5a88d41a4e442891db94d9
+    m_Address: data/MegaMan.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 42afe271cd1d1c74d93cc8cb556740f9
+    m_Address: data/MetaKnight.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 44cfd9168b97b6047916ed7b2ddf3810
+    m_Address: data/Mario.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5036ac26b34766f4cbdc72ace12a22f1
+    m_Address: data/Simon.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 526440694172b2f42b7139b819d7df88
+    m_Address: data/Charizard.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 64f9c7bdbb443564ab6ab82d76f0ff8c
+    m_Address: data/Joker.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 65e1765edcbd64342b6e2a4437bfdae8
+    m_Address: data/Lucas.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 66b921eaac50102489a70070175baf57
+    m_Address: data/IceClimbers.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 69c5519a938bc15438685e8c91cae84b
+    m_Address: data/Hero.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 69d9d083bb619a4429ffc0882e7fe9d6
+    m_Address: data/DuckHunt.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6b6a2d3f42574c542af72cf1646989ef
+    m_Address: data/Ike.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6fe762afa369419448101781afa7e4f5
+    m_Address: data/Link.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 71c22368700e835458f3dbad0cc33ec0
+    m_Address: data/DK.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 71fec26d0b70f3141aace04f2f9a05fe
+    m_Address: data/Fox.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 724e02df11aa7e04eaf18e3af0a436ea
+    m_Address: data/Ness.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 72ddafc04baef8a4ca9c655ac6016b86
+    m_Address: data/Samus.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7dcc6afd834ddfe41b39358e3081742f
+    m_Address: data/WiiFitTrainer.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 81c2e3531abf86646b592d7d167b5ecb
+    m_Address: data/Dr.Mario.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 82a1551fd244d1f448264c569dcb0e3b
+    m_Address: data/Marth.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8a153f7cd3fcd1f448dc48e1ac45926d
+    m_Address: data/Kirby.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8adce8e1d6c7d1045a1a87bfc6fb30ce
+    m_Address: data/Sheik.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8cdbb95cdcaec00479047ac14c077274
+    m_Address: data/Snake.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8ec1e4e8e48fd0f478f2bc7ff658a022
+    m_Address: data/Bayonetta.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8f3e41e6104e18f448f481124817e32b
+    m_Address: data/Palutena.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8fb90a0ede8590d429807c99ed1bdeff
+    m_Address: data/Squirtle.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 92404daf3bb55e246bb6f07447418bb4
+    m_Address: data/Pichu.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9d56debcee8ee9d44a0f7f26feab6068
+    m_Address: data/Bowser.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a2e7e9a1cd91c7947b337204e60a8403
+    m_Address: data/Greninja.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a2f18dceb73c28a47b083be7d52c275b
+    m_Address: data/KingDedede.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a34b64d436d4f72429abca599d9faa61
+    m_Address: data/Wario.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: aabca6977ca91df48a111a66cabdbb81
+    m_Address: data/Robin.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ae016e7844cfba349b6423f607037773
+    m_Address: data/Luigi.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b6ed029a4e08d7242b30c32a33b8b6a9
+    m_Address: data/Pac-Man.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: baba81f114a9b494fb01f66385af4abb
+    m_Address: data/Mr.Game&Watch.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c12d83db51c2b7f4b8f9aa669398693a
+    m_Address: data/Villager.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c292ca37375ceb04fa6b7be7b7670191
+    m_Address: data/Sonic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c37b5cffceb3f0d4d83b4b1f7f571b3f
+    m_Address: data/R.O.B..asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c681e8b4c0491a144a55281e1111f33c
+    m_Address: data/LittleMac.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c9fe7ea4c43e98a4bb797dc8a761d368
+    m_Address: data/ToonLink.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cc8112bc2d3bf994aaa141a78b3659e8
+    m_Address: data/Incineroar.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d03b4e81bc58c994383e6c192b7b970e
+    m_Address: data/Pit.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d22c3fac41649a14ba1afc78d4be9595
+    m_Address: data/ZeroSuitSamus.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d47c3fa46ab0977439016a56522bb4ba
+    m_Address: data/MiiBrawler.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: db73ce68d74813e49a808133b641983b
+    m_Address: data/Zelda.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: df28e8ec1657944449ac1a0988c3ce1d
+    m_Address: data/Rosalina&Luma.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e0a8af66422a9074fa90973163999c7a
+    m_Address: data/Roy.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e2a5519591e857a4f9514b61c9f1303e
+    m_Address: data/BowserJr..asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e4bbd22b9986e08428e7b3fe4ebc7a21
+    m_Address: data/PiranhaPLant.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: eebfdaa57fd1e894dbbaa72b27de801b
+    m_Address: data/Peach.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: eee01334436989d45b0eede1a8fe3dbc
+    m_Address: data/MiiSwordfighter.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f227fc4d5891304419b982d51278bb5e
+    m_Address: data/Corrin.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f229eb7f37469d7479b46d7eb8e1aae9
+    m_Address: data/Pikachu.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f31f68e7751bc40448eb1c9f1ed106c5
+    m_Address: data/Wolf.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f4e1548cbcb139a47b86d3709c3e7d98
+    m_Address: data/Ganondorf.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f54f5984fe3168f458ebe429335d0ce2
+    m_Address: data/KingK.Rool.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f9dde9caa3188dd4b8473ca190e5f60d
+    m_Address: data/Ridley.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fb6ee65b568d0f847b714326775bd981
+    m_Address: data/Shulk.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fc60b3ef06b3cda44bef6311d2398a95
+    m_Address: data/MiiGunner.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fcde28826a4194f449ba086c521d473a
+    m_Address: data/Falco.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character_profile
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 66c5d9e9cfc4e354693964baa59ecdeb, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 395ab973caf6f4e4dbb960344c3c367a, type: 2}
+    - {fileID: 11400000, guid: e26742647531c634d9fd33fe82285046, type: 2}

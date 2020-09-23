@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62f4d9625643b694abaf45cf9012b56f, type: 3}
+  m_Name: Pac-Man
+  m_EditorClassIdentifier: 
+  _portrait: {fileID: 0}
+  _character:
+    Name: Pac-Man
+    JumpSquad: 3
+    SoftLanding: 2
+    HardLanding: 4
+    InitialDash: 10
+    SingleDash: 17
+    Weight: 95
+    WalkSpeed: 1.097
+    RunSpeed: 1.672
+    AirSpeed: 1.092
+    FallSpeed: 1.35
+    FastFallSpeed: 2.16
+    ShortHopTime: 42
+    FullHopTime: 59
+    ShortHopFastFallTime: 29
+    FullHopFastFallTime: 41

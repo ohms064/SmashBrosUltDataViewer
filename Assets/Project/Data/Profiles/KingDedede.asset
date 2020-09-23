@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62f4d9625643b694abaf45cf9012b56f, type: 3}
+  m_Name: KingDedede
+  m_EditorClassIdentifier: 
+  _portrait: {fileID: 0}
+  _character:
+    Name: KingDedede
+    JumpSquad: 3
+    SoftLanding: 2
+    HardLanding: 6
+    InitialDash: 10
+    SingleDash: 19
+    Weight: 127
+    WalkSpeed: 1.029
+    RunSpeed: 1.496
+    AirSpeed: 0.735
+    FallSpeed: 1.95
+    FastFallSpeed: 3.12
+    ShortHopTime: 36
+    FullHopTime: 48
+    ShortHopFastFallTime: 24
+    FullHopFastFallTime: 32

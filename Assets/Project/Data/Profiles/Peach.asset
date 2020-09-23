@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62f4d9625643b694abaf45cf9012b56f, type: 3}
+  m_Name: Peach
+  m_EditorClassIdentifier: 
+  _portrait: {fileID: 0}
+  _character:
+    Name: Peach
+    JumpSquad: 3
+    SoftLanding: 2
+    HardLanding: 4
+    InitialDash: 15
+    SingleDash: 19
+    Weight: 89
+    WalkSpeed: 0.924
+    RunSpeed: 1.595
+    AirSpeed: 1.029
+    FallSpeed: 1.19
+    FastFallSpeed: 1.904
+    ShortHopTime: 41
+    FullHopTime: 57
+    ShortHopFastFallTime: 28
+    FullHopFastFallTime: 40

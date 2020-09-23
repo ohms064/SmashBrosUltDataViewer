@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62f4d9625643b694abaf45cf9012b56f, type: 3}
+  m_Name: MetaKnight
+  m_EditorClassIdentifier: 
+  _portrait: {fileID: 0}
+  _character:
+    Name: MetaKnight
+    JumpSquad: 3
+    SoftLanding: 2
+    HardLanding: 4
+    InitialDash: 12
+    SingleDash: 25
+    Weight: 80
+    WalkSpeed: 1.239
+    RunSpeed: 2.09
+    AirSpeed: 1.04
+    FallSpeed: 1.66
+    FastFallSpeed: 2.656
+    ShortHopTime: 31
+    FullHopTime: 47
+    ShortHopFastFallTime: 22
+    FullHopFastFallTime: 33

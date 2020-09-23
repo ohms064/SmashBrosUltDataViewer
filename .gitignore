@@ -58,3 +58,15 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+Assets/Ludiq/
+
+Assets/Ludiq.Generated/
+
+Assets/Plugins/Sirenix/
+
+Assets/Plugins/Sirenix.meta
+
+Assets/Ludiq.meta
+
+Assets/Ludiq.Generated.meta
