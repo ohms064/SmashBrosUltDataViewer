@@ -2,10 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI.Extensions;
+using TMPro;
 public class CharacterCell : FancyCell<Character> {
     [SerializeField]
     private PolygonStats _stats;
+    [SerializeField]
+    private TextMeshProUGUI _tmp;
     public override void UpdateContent ( Character itemData ) {
+        _tmp.text = itemData.Name;
         _stats.UpdateStat( Stats.JumpSquad, itemData.JumpSquad );
         _stats.UpdateStat( Stats.SoftLanding, itemData.SoftLanding );
         _stats.UpdateStat( Stats.HardLanding, itemData.HardLanding );
@@ -23,6 +27,8 @@ public class CharacterCell : FancyCell<Character> {
     }
 
     public override void UpdatePosition ( float position ) {
-
+        if ( !FancyScrollViewPath.Instance ) return;
+        transform.position = FancyScrollViewPath.Instance.Goto( position );
+        transform.localScale = FancyScrollViewPath.Instance.GetScale( position ) * Vector3.one;
     }
 }

@@ -21,8 +21,11 @@ public class PolygonStats : MonoBehaviour {
     private CircleCoordinate[] _coordinates = new CircleCoordinate[StatsCount];
 
     public void UpdateStat ( Stats stat, float value ) {
-        _coordinates[(int) stat].magnitude = DataNormalizer.Normalize( stat, value );
-        _polygon.SetPointPosition( (int) stat, _coordinates[(int) stat].Vector );
+        var index = (int) stat;
+        var position = _coordinates[index].Vector;
+        _coordinates[index].magnitude = DataNormalizer.Normalize( stat, value );
+        _polygon.SetPointPosition( index, position );
+        transform.GetChild( index ).localPosition = position;
     }
 
     public void ResetPoints () {
