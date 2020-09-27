@@ -48,11 +48,12 @@ public class CharacterImporter : OdinEditorWindow {
             AssetDatabase.CreateAsset( profile, path );
 
             if ( group ) {
+                //As described here: https://forum.unity.com/threads/set-asset-as-addressable-through-script.718751/
                 var guid = AssetDatabase.AssetPathToGUID( path );
                 var entry = _settings.CreateOrMoveEntry( guid, group );
 
                 entry.address = $"data/{profile.name}.asset";
-                entry.labels.Add( "character_profile" );
+                entry.labels.Add( "data" );
             }
         }
         AssetDatabase.SaveAssets();
